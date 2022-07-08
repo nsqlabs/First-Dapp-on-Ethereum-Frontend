@@ -1,0 +1,15 @@
+.bio {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  /* text-align: center; */
+  color: gray;
+  margin-top: 16px;
+  padding: 1rem;
+  font-size: 1.1rem;
+}
+
+.bio > img {
+  border-radius: 10px;
+  padding-bottom: 2rem;
+}

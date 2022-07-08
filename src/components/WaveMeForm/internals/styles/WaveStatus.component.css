@@ -1,0 +1,16 @@
+.wave-status {
+  color: #fffc;
+  border-radius: 0.5em;
+  border: 1px solid;
+  margin: 10px 0px;
+  padding: 15px;
+  width: 350px;
+}
+
+.wave-status-success {
+  background-color: #7ddf7c;
+}
+
+.wave-status-error {
+  background-color: red;
+}
